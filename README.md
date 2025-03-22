@@ -8,22 +8,22 @@ A dynamic graph implementation in **C**, designed for handling node relationship
 
 ### Adjacency List Representation
 
-<img src="assets/adjlists.png" alt="Adjacency List Example" width="500"/>
+<img src="assets/adjlists.png" alt="Adjacency List Example" />
 
 ### Graph Traversal Example
 
-<img src="assets/animation.gif" alt="Graph Traversal Example" width="500"/>
+<img src="assets/animation.gif" alt="Graph Traversal Example" />
 
 ---
 
 ## 🚀 Features
 
-- ✅ Directed & weighted graph representation
-- ✅ Supports dynamic node and edge insertion/deletion
-- ✅ Path traversal with edge weight accumulation
-- ✅ Memory leak-safe (Valgrind tested)
-- ✅ Fast adjacency list design
-- ✅ Clean command-based input interface
+- ✅ Directed & weighted graph representation  
+- ✅ Supports dynamic node and edge insertion/deletion  
+- ✅ Path traversal with edge weight accumulation  
+- ✅ Memory leak-safe (Valgrind tested)  
+- ✅ Fast adjacency list design  
+- ✅ Clean command-based input interface  
 
 ---
 
